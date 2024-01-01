@@ -650,6 +650,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2023-12-22 16:15:17 -0500",
+      "minecraft:mushroom_fields": "2023-12-31 13:58:06 -0500",
       "minecraft:forest": "2023-06-01 22:04:56 -0400",
       "minecraft:taiga": "2023-12-22 16:14:54 -0500",
       "minecraft:deep_ocean": "2023-06-01 22:07:15 -0400",
@@ -662,16 +663,23 @@
       "minecraft:windswept_hills": "2023-12-22 16:13:24 -0500",
       "minecraft:old_growth_spruce_taiga": "2023-12-23 23:06:20 -0500",
       "minecraft:wooded_badlands": "2023-12-23 22:52:10 -0500",
+      "minecraft:bamboo_jungle": "2023-12-31 13:28:00 -0500",
       "minecraft:warm_ocean": "2023-12-23 22:52:24 -0500",
       "minecraft:deep_lukewarm_ocean": "2023-12-22 16:43:45 -0500",
       "minecraft:badlands": "2023-12-22 21:20:17 -0500",
       "minecraft:flower_forest": "2023-06-01 22:05:46 -0400",
       "minecraft:beach": "2023-06-01 22:06:15 -0400",
       "minecraft:dark_forest": "2023-06-01 20:34:48 -0400",
+      "minecraft:stony_peaks": "2023-12-31 13:34:51 -0500",
+      "minecraft:mangrove_swamp": "2023-12-31 13:15:18 -0500",
+      "minecraft:sparse_jungle": "2023-12-31 13:29:23 -0500",
       "minecraft:river": "2023-06-01 22:06:41 -0400",
       "minecraft:lukewarm_ocean": "2023-12-22 16:21:19 -0500",
       "minecraft:stony_shore": "2023-12-23 22:51:02 -0500",
+      "minecraft:frozen_peaks": "2023-12-31 13:37:10 -0500",
+      "minecraft:old_growth_birch_forest": "2023-12-31 13:32:28 -0500",
       "minecraft:swamp": "2023-12-22 16:13:34 -0500",
+      "minecraft:grove": "2023-12-31 13:32:35 -0500",
       "minecraft:windswept_gravelly_hills": "2023-12-22 21:20:28 -0500",
       "minecraft:savanna": "2023-12-23 09:56:20 -0500",
       "minecraft:plains": "2023-06-01 20:34:34 -0400"
@@ -771,7 +779,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2023-12-22 21:08:31 -0500",
-      "minecraft:chicken": "2023-06-01 20:45:29 -0400"
+      "minecraft:chicken": "2023-06-01 20:45:29 -0400",
+      "minecraft:bee": "2023-12-31 16:32:14 -0500"
     },
     "done": false
   },
@@ -802,6 +811,7 @@
       "minecraft:spider": "2023-12-22 16:47:08 -0500",
       "minecraft:zombie": "2023-06-02 21:28:30 -0400",
       "minecraft:creeper": "2023-06-01 22:14:32 -0400",
+      "minecraft:zombie_villager": "2023-12-31 13:58:28 -0500",
       "minecraft:slime": "2023-12-23 22:02:50 -0500"
     },
     "done": false
@@ -3095,6 +3105,228 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2023-12-30 16:31:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-12-31 12:57:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-12-31 13:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-12-31 13:06:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-12-31 13:06:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-12-31 13:06:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2023-12-31 13:07:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-12-31 13:07:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-12-31 13:07:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-12-31 13:07:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-12-31 13:07:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-12-31 13:07:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-12-31 13:07:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-12-31 13:09:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2023-12-31 13:09:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-12-31 13:15:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2023-12-31 13:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2023-12-31 13:16:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2023-12-31 13:16:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2023-12-31 13:42:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-12-31 13:42:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2023-12-31 13:48:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-12-31 15:45:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-12-31 15:45:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2023-12-31 15:45:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-12-31 15:55:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2023-12-31 16:34:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2023-12-31 16:34:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2023-12-31 17:40:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2023-12-31 17:40:49 -0500"
     },
     "done": true
   },
