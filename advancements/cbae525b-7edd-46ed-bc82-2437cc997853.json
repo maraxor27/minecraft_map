@@ -1410,6 +1410,7 @@
       "minecraft:phantom": "2023-12-31 15:43:20 -0500",
       "minecraft:zombified_piglin": "2023-12-23 10:50:50 -0500",
       "minecraft:enderman": "2023-12-23 13:56:41 -0500",
+      "minecraft:endermite": "2024-01-01 17:40:15 -0500",
       "minecraft:spider": "2023-12-23 23:02:28 -0500",
       "minecraft:zombie": "2023-12-22 20:15:37 -0500",
       "minecraft:creeper": "2023-12-22 20:21:51 -0500",
@@ -2403,18 +2404,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2023-12-31 15:01:41 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2023-12-31 15:53:09 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2023-12-31 14:47:03 -0500"
@@ -2433,6 +2422,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2023-12-31 14:47:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2023-12-31 14:47:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2023-12-31 15:01:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-12-31 15:01:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-12-31 15:53:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2023-12-31 15:53:09 -0500"
@@ -2445,23 +2464,35 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_prismarine": "2023-12-31 14:47:03 -0500"
+      "tamed_animal": "2024-01-01 17:55:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_boat": "2023-12-31 15:01:41 -0500"
+      "has_smelts_to_glass": "2024-01-01 16:49:54 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_prismarine": "2023-12-31 14:47:03 -0500"
+      "has_lapis_block": "2024-01-01 17:50:15 -0500"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-01-01 16:49:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2024-01-01 17:55:55 -0500"
+    },
+    "done": false
   },
   "DataVersion": 3700
 }
