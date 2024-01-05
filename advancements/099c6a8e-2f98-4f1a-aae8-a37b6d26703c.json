@@ -3342,9 +3342,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_needed_dye": "2024-01-04 18:34:45 -0500"
+      "has_spider_eye": "2024-01-04 18:29:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-01-04 18:34:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-04 18:34:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-04 18:34:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-04 18:34:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2024-01-04 18:34:11 -0500"
     },
     "done": true
   },
@@ -3354,9 +3384,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
+  "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
-      "has_orange_dye": "2024-01-04 18:34:11 -0500"
+      "has_orange_wool": "2024-01-04 18:34:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-01-04 18:34:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-04 18:34:45 -0500"
     },
     "done": true
   },
@@ -3372,21 +3414,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2024-01-04 18:34:21 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-01-04 18:34:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-01-04 18:29:30 -0500"
     },
     "done": true
   },
@@ -3396,13 +3426,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
+  "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
-      "has_needed_dye": "2024-01-04 18:34:11 -0500"
+      "has_blue_dye": "2024-01-04 18:34:45 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_candle": {
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-01-04 18:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-01-04 18:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-04 18:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-01-04 18:34:45 -0500"
     },
@@ -3414,9 +3462,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
-      "has_blue_dye": "2024-01-04 18:34:45 -0500"
+      "has_blue_wool": "2024-01-04 18:34:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-01-04 18:34:47 -0500"
     },
     "done": true
   },
@@ -3438,51 +3492,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-01-04 18:34:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2024-01-04 18:34:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-01-04 18:34:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2024-01-04 18:34:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2024-01-04 18:35:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-01-04 18:34:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_orange_dye": "2024-01-04 18:34:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2024-01-04 18:34:47 -0500"
     },
     "done": true
   },
@@ -3492,15 +3504,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_blue_dye": "2024-01-04 18:34:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2024-01-04 18:34:21 -0500"
+      "potion": "2024-01-04 22:26:27 -0500"
     },
     "done": true
   },
